@@ -1,13 +1,13 @@
 {
-  "main.css": "/axieapp/static/css/main.5b8bd14a.chunk.css",
-  "main.js": "/axieapp/static/js/main.d203d478.chunk.js",
-  "main.js.map": "/axieapp/static/js/main.d203d478.chunk.js.map",
-  "static/js/1.792fa3ec.chunk.js": "/axieapp/static/js/1.792fa3ec.chunk.js",
-  "static/js/1.792fa3ec.chunk.js.map": "/axieapp/static/js/1.792fa3ec.chunk.js.map",
-  "runtime~main.js": "/axieapp/static/js/runtime~main.df985b0e.js",
-  "runtime~main.js.map": "/axieapp/static/js/runtime~main.df985b0e.js.map",
-  "static/css/main.5b8bd14a.chunk.css.map": "/axieapp/static/css/main.5b8bd14a.chunk.css.map",
-  "index.html": "/axieapp/index.html",
-  "precache-manifest.ca62909932747078c6aebd2acbeeca62.js": "/axieapp/precache-manifest.ca62909932747078c6aebd2acbeeca62.js",
-  "service-worker.js": "/axieapp/service-worker.js"
+  "main.css": "/static/css/main.5b8bd14a.chunk.css",
+  "main.js": "/static/js/main.9a9cd6fe.chunk.js",
+  "main.js.map": "/static/js/main.9a9cd6fe.chunk.js.map",
+  "static/js/1.792fa3ec.chunk.js": "/static/js/1.792fa3ec.chunk.js",
+  "static/js/1.792fa3ec.chunk.js.map": "/static/js/1.792fa3ec.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.5b8bd14a.chunk.css.map": "/static/css/main.5b8bd14a.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.bedf9f6eed2c90f526887c32a2a7f024.js": "/precache-manifest.bedf9f6eed2c90f526887c32a2a7f024.js",
+  "service-worker.js": "/service-worker.js"
 }
